@@ -24,4 +24,5 @@ Dataset 3: IMDB
 This dataset contains information about the 250 highest rated movies of all time on IMDB.  The reason we chose this source is because we can use the Beautiful Soup package from Python to scrape data from the website’s HTML. With the scraped data in the form of a table, we can utilize the rating of movie-goers to analyze the public opinion of movies and how that correlates (or contribute) to a movie’s success at the box office. 
 
 IV. Implementation 
+
 We intend to answer our central question by finding the correlation between each indicator (aforementioned) and revenue. Below we will list the operations we intend to perform on each independent variable. 
